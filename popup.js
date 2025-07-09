@@ -7,7 +7,7 @@ window.onload = function(){
     
 }
 
-const botonCerrarPopupNacex = document.querySelector(".close_button_container button");
+const botonCerrarPopupNacex = document.querySelector(".close_button_container_nacex button");
 
 
 botonCerrarPopupNacex.addEventListener("click", function(e) {
